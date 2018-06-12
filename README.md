@@ -7,7 +7,7 @@ Speed up the process of using Hdri
 
 3.Work well in houdini16/16.5 , other virsion are not tested.
 
-
+install:https://vimeo.com/274635205
 Use:https://vimeo.com/259123573
 
     https://vimeo.com/258928912
